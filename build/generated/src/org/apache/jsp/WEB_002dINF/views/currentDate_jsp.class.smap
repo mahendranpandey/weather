@@ -1,0 +1,10 @@
+SMAP
+currentDate_jsp.java
+JSP
+*S JSP
+*F
++ 0 currentDate.jsp
+WEB-INF/views/currentDate.jsp
+*L
+1,11:44
+*E
